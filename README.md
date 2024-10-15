@@ -17,7 +17,7 @@ The objective of this project is to leverage Excel and Power BI for comprehensiv
 - 	How can the insights on order statuses help improve customer satisfaction and reduce returns or cancellations?
 
 ## Dashboard Interaction:
-- <a href= "file:///C:/Users/Kishore%20Kumar/OneDrive/Excel%20project/Insights/Ethereal.pdf"> Dashboard</a>
+- <a href= "https://1drv.ms/b/c/b227da2facb1ec97/EfBzd0AbhZVOne3Y2DGDvAgBJDOHi0tRoU5h9mRtZcEHMQ?e=oVGtia">Dashboard</a>
 
 ## Process:
 - Verify the data for any missing values and anomalies and sort out the same.
