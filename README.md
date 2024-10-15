@@ -23,4 +23,5 @@ The objective of this project is to leverage Excel and Power BI for comprehensiv
 - Verify the data for any missing values and anomalies and sort out the same.
 - Make sure that data is consistent and clean with respect to data type, data format and values used.
 - Created pivot tables according to the KPI.
-- Merge all pivot table into one dashboard and apply slicer to make dynamic. 
+- Merge all pivot table into one dashboard and apply slicer to make dynamic.
+- Please refer the links to view the Datas, Pivot Table, Dashbords and Insights.
